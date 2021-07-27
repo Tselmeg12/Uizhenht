@@ -407,7 +407,7 @@ a.image{
     background-color: #f2f2f2;
 }
 .bg-yellow, .hvr-bg-yellow:hover {
-    background-color: #f1c30f;
+    background-color: #EE6C4D;
 }
 .bg-pink, .hvr-bg-pink:hover  {
     background-color: #e57bff;
@@ -563,7 +563,7 @@ nav .btn-setting {
     width: 180px;
 }
 .btn-yellow {
-    border-color: #f1c30f;
+    border-color: #ee6c;
     background-color: #f1c30f;
     color: #ffffff;
 }
@@ -634,10 +634,10 @@ nav .btn-setting {
     height: 100%;
 }
 .btn-hvr-yellow:after {
-    background-color: #f1c30f;
+    background-color: ;
 }
 .btn-hvr-yellow:hover, .btn-hvr-yellow:focus {
-    border-color: #f1c30f;
+    border-color: #EF3E36;
     color: #ffffff;
 }
 .btn-hvr-yellow:focus, .btn-hvr-pink:focus, .btn-hvr-blue:focus, .btn-hvr-whatsapp:focus {
@@ -737,7 +737,7 @@ nav .btn-setting {
     position: absolute;
 }
 .menu_bars span, .menu_bars2 span {
-    background: #212622;
+    background: white;
     width: 30px;
     height: 2px;
     display: block;
@@ -847,7 +847,7 @@ nav .btn-setting {
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
     font-weight: 700;
-    color: #ffffff;
+    color: #EE6C4D;
     padding: 0 0;
     margin-right: 1rem;
     margin-left: 1rem;
@@ -1470,7 +1470,7 @@ header.header-appear .navbar-top-default .header-social a:hover {
     line-height: 45px;
 }
 .bg-pink-two {
-    background: #febdc8;
+    background: #e0b1cb;
 }
 .bg-gray-two {
     background: #e2e3e2;
